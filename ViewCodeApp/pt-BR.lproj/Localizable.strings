@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ViewCodeApp
+
+  Created by Jose Javier on 07/11/19.
+  Copyright © 2019 JLApps. All rights reserved.
+*/
+"WELCOME_TEXT" = "Seja bem-vindo!";
+"INPUT_PHONE_PLACEHOLDER" = "Digite seu telefone";
+"SIGNUP_BUTTON_TITLE" = "Continuar";
